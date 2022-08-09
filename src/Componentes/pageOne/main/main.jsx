@@ -178,19 +178,7 @@ const useStyles = makeStyles((theme) => ({
         },
       
     },
-        
-
-        
-        
-    
-
-    image:{
-        objectFit:"cover",
-        width:"100%",
-        borderRadius:"50%",
-        
-        
-    },
+       
 }));
 
 const Main = () =>{

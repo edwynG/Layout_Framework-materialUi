@@ -1,4 +1,4 @@
-# Layout_Framework-materialUi
+# Layout_Framework-materialUI
 Mi primera pagina con un framework
 
 el codigo lo hice lo mas optimo q pude separe cada apartado de la pagina por componente
